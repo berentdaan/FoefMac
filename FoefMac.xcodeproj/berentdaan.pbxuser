@@ -1,0 +1,506 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 50D4DB06124157EA00E69F16 /* FoefMac */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* FoefMac */;
+		addToTargets = (
+			8DD76FA90486AB0100D96B5E /* FoefMac */,
+		);
+		breakpoints = (
+			5072FD5012465D2D000A88C2 /* FBasis.c:399 */,
+			5072FD5E12465E8C000A88C2 /* FMutatie.c:78 */,
+			5072FD7E1246648F000A88C2 /* FMutatie.c:78 */,
+			50333CAC12CA76D300F62369 /* FUitvoer.c:169 */,
+		);
+		codeSenseManager = 50D4DB0B1241580100E69F16 /* Code sense */;
+		executables = (
+			50D4DB06124157EA00E69F16 /* FoefMac */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					724,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					836,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					796,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330191520;
+			PBXWorkspaceStateSaveDate = 330191520;
+		};
+		perUserProjectItems = {
+			50333CEA12CA804800F62369 /* PBXTextBookmark */ = 50333CEA12CA804800F62369 /* PBXTextBookmark */;
+			5072FDD912468FFF000A88C2 /* PBXTextBookmark */ = 5072FDD912468FFF000A88C2 /* PBXTextBookmark */;
+			5073461213AE55620098DF25 /* PBXTextBookmark */ = 5073461213AE55620098DF25 /* PBXTextBookmark */;
+			5073461313AE55620098DF25 /* PBXTextBookmark */ = 5073461313AE55620098DF25 /* PBXTextBookmark */;
+			5073461413AE55620098DF25 /* PBXTextBookmark */ = 5073461413AE55620098DF25 /* PBXTextBookmark */;
+			50C5E0BB13AE298C00FBC236 /* PBXTextBookmark */ = 50C5E0BB13AE298C00FBC236 /* PBXTextBookmark */;
+			50C5E0D713AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0D713AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0D813AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0D813AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0DA13AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0DA13AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0DC13AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0DC13AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0DE13AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0DE13AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0E013AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0E013AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0E213AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0E213AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0E413AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0E413AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0E613AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0E613AE526B00FBC236 /* PBXTextBookmark */;
+			50C5E0E813AE526B00FBC236 /* PBXTextBookmark */ = 50C5E0E813AE526B00FBC236 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 50D4DB0A1241580100E69F16 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	50333CAC12CA76D300F62369 /* FUitvoer.c:169 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50D4DB151241588900E69F16 /* FUitvoer.c */;
+		functionName = "LeesBasis()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 169;
+		location = FoefMac;
+		modificationTime = 330191809.580863;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	50333CEA12CA804800F62369 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D4DB541244F16D00E69F16 /* FMutatie.c */;
+		name = "FMutatie.c: 106";
+		rLen = 0;
+		rLoc = 2218;
+		rType = 0;
+		vrLen = 1139;
+		vrLoc = 2852;
+	};
+	5072FD5012465D2D000A88C2 /* FBasis.c:399 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50D4DB0C1241582700E69F16 /* FBasis.c */;
+		functionName = "LeesNamen()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 399;
+		location = FoefMac;
+		modificationTime = 330191809.580791;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5072FD5E12465E8C000A88C2 /* FMutatie.c:78 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50D4DB541244F16D00E69F16 /* FMutatie.c */;
+		functionName = "Decoderen()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 78;
+		location = FoefMac;
+		modificationTime = 330191809.580836;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5072FD7E1246648F000A88C2 /* FMutatie.c:78 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 50D4DB541244F16D00E69F16 /* FMutatie.c */;
+		functionName = "Decoderen()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 78;
+		location = FoefMac;
+		modificationTime = 330191809.58085;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	5072FDD912468FFF000A88C2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5072FDDA12468FFF000A88C2 /* stdlib.h */;
+		name = "stdlib.h: 149";
+		rLen = 25;
+		rLoc = 4929;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 4231;
+	};
+	5072FDDA12468FFF000A88C2 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	5073461213AE55620098DF25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D4DB0D1241582700E69F16 /* FBasis.h */;
+		name = "FBasis.h: 21";
+		rLen = 7;
+		rLoc = 386;
+		rType = 0;
+		vrLen = 1266;
+		vrLoc = 126;
+	};
+	5073461313AE55620098DF25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D4DB521244F16100E69F16 /* FBereken.c */;
+		name = "FBereken.c: 614";
+		rLen = 0;
+		rLoc = 14722;
+		rType = 0;
+		vrLen = 1737;
+		vrLoc = 14190;
+	};
+	5073461413AE55620098DF25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D4DB521244F16100E69F16 /* FBereken.c */;
+		name = "FBereken.c: 687";
+		rLen = 7;
+		rLoc = 17167;
+		rType = 0;
+		vrLen = 1807;
+		vrLoc = 14190;
+	};
+	50C5E0BB13AE298C00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D4DB0C1241582700E69F16 /* FBasis.c */;
+		name = "FBasis.c: 130";
+		rLen = 0;
+		rLoc = 2876;
+		rType = 0;
+		vrLen = 686;
+		vrLoc = 4029;
+	};
+	50C5E0D713AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D4DB151241588900E69F16 /* FUitvoer.c */;
+		name = "FUitvoer.c: 486";
+		rLen = 4;
+		rLoc = 16294;
+		rType = 0;
+		vrLen = 1311;
+		vrLoc = 4851;
+	};
+	50C5E0D813AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0D913AE526B00FBC236 /* FOEF DisplayPerOver.c */;
+		name = "FOEF DisplayPerOver.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1143;
+		vrLoc = 41;
+	};
+	50C5E0D913AE526B00FBC236 /* FOEF DisplayPerOver.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF DisplayPerOver.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF DisplayPerOver.c";
+		sourceTree = "<absolute>";
+	};
+	50C5E0DA13AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0DB13AE526B00FBC236 /* FOEF Operations.c */;
+		name = "FOEF Operations.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 935;
+		vrLoc = 6924;
+	};
+	50C5E0DB13AE526B00FBC236 /* FOEF Operations.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF Operations.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Operations.c";
+		sourceTree = "<absolute>";
+	};
+	50C5E0DC13AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0DD13AE526B00FBC236 /* FOEF Muta.c */;
+		name = "FOEF Muta.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	50C5E0DD13AE526B00FBC236 /* FOEF Muta.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF Muta.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Muta.c";
+		sourceTree = "<absolute>";
+	};
+	50C5E0DE13AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0DF13AE526B00FBC236 /* FOEF Mutaties.c */;
+		name = "FOEF Mutaties.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 12947;
+	};
+	50C5E0DF13AE526B00FBC236 /* FOEF Mutaties.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF Mutaties.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Mutaties.c";
+		sourceTree = "<absolute>";
+	};
+	50C5E0E013AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0E113AE526B00FBC236 /* FOEF Deelnemers.c */;
+		name = "FOEF Deelnemers.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 1329;
+	};
+	50C5E0E113AE526B00FBC236 /* FOEF Deelnemers.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF Deelnemers.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Deelnemers.c";
+		sourceTree = "<absolute>";
+	};
+	50C5E0E213AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0E313AE526B00FBC236 /* FOEF Defs.h */;
+		name = "FOEF Defs.h: 11";
+		rLen = 8;
+		rLoc = 111;
+		rType = 0;
+		vrLen = 1171;
+		vrLoc = 0;
+	};
+	50C5E0E313AE526B00FBC236 /* FOEF Defs.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = "FOEF Defs.h";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Defs.h";
+		sourceTree = "<absolute>";
+	};
+	50C5E0E413AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0E513AE526B00FBC236 /* FOEF Base.c */;
+		name = "FOEF Base.c: 21";
+		rLen = 8;
+		rLoc = 512;
+		rType = 0;
+		vrLen = 1106;
+		vrLoc = 210;
+	};
+	50C5E0E513AE526B00FBC236 /* FOEF Base.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF Base.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Base.c";
+		sourceTree = "<absolute>";
+	};
+	50C5E0E613AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0E713AE526B00FBC236 /* FOEF Reken.c */;
+		name = "FOEF Reken.c: 299";
+		rLen = 15;
+		rLoc = 7233;
+		rType = 0;
+		vrLen = 1357;
+		vrLoc = 0;
+	};
+	50C5E0E713AE526B00FBC236 /* FOEF Reken.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF Reken.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Reken.c";
+		sourceTree = "<absolute>";
+	};
+	50C5E0E813AE526B00FBC236 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50C5E0E913AE526B00FBC236 /* FOEF Overzicht.c */;
+		name = "FOEF Overzicht.c: 37";
+		rLen = 134;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 824;
+		vrLoc = 488;
+	};
+	50C5E0E913AE526B00FBC236 /* FOEF Overzicht.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "FOEF Overzicht.c";
+		path = "/Users/berentdaan/Documents/FOEF/Software/FSys Berent/FOEF projekten/FOEF project/Sources/FOEF Overzicht.c";
+		sourceTree = "<absolute>";
+	};
+	50D4DB06124157EA00E69F16 /* FoefMac */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+			YES,
+			YES,
+			YES,
+		);
+		argumentStrings = (
+			2009,
+			12,
+			2010,
+			09,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FoefMac;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	50D4DB0A1241580100E69F16 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	50D4DB0B1241580100E69F16 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	50D4DB0C1241582700E69F16 /* FBasis.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 5746}}";
+			sepNavSelRange = "{5236, 0}";
+			sepNavVisRange = "{5411, 328}";
+			sepNavWindowFrame = "{{15, 45}, {1066, 828}}";
+		};
+	};
+	50D4DB0D1241582700E69F16 /* FBasis.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 1898}}";
+			sepNavSelRange = "{386, 7}";
+			sepNavVisRange = "{126, 1266}";
+			sepNavWindowFrame = "{{38, 24}, {1066, 828}}";
+		};
+	};
+	50D4DB151241588900E69F16 /* FUitvoer.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 7332}}";
+			sepNavSelRange = "{16294, 4}";
+			sepNavVisRange = "{4851, 1311}";
+			sepNavWindowFrame = "{{15, 45}, {1066, 828}}";
+		};
+	};
+	50D4DB521244F16100E69F16 /* FBereken.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 12571}}";
+			sepNavSelRange = "{17167, 7}";
+			sepNavVisRange = "{14190, 1807}";
+			sepNavWindowFrame = "{{15, 45}, {1066, 828}}";
+		};
+	};
+	50D4DB541244F16D00E69F16 /* FMutatie.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 2431}}";
+			sepNavSelRange = "{4906, 0}";
+			sepNavVisRange = "{2461, 1624}";
+			sepNavWindowFrame = "{{15, 45}, {1066, 828}}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* FoefMac */ = {
+		activeExec = 0;
+		executables = (
+			50D4DB06124157EA00E69F16 /* FoefMac */,
+		);
+	};
+}
