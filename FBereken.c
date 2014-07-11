@@ -827,7 +827,7 @@ void	MaakMuta()
 	MnewF=fopen(Mutanaam,"w");
 	while (fgets(Mrec,60,MutaF)!=NULL)
 	{
-		if (*lMrec == '\n') {
+		if (lMrec != NULL && *lMrec == '\n') {
 			fprintf(MnewF,"\n"); // Kopieer lege regels gewoon
 			continue;
 		}
