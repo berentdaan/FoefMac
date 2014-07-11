@@ -388,7 +388,7 @@ void	Transacties(int x)	/* Mutatie codes 22,23,27,51,52,61,62 */
 			case kMutbfo: zDnr->Ove-=Bedrag;
 				
 			case kMutovb:
-			case kMutovd: zDnr->Rcr-=Bedrag; 
+			case kMutove: zDnr->Rcr-=Bedrag; 
 				          zDnr->Bet-=Bedrag;
 						  break;
 			default:	Fout(3,Muco,"onbekende of onjuiste mutatiecode");
