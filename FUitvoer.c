@@ -72,7 +72,7 @@ int	LeesBasis()
 	char	BasN1[60],BasN0[60];	/* naam basisfiles                              */
 	FILE	 *BasF1,*BasF0;			/* basisfiles                                   */
 	
-	sprintf(BasN0,"basis/bas%4d%c.dta", Jaar0, '@'+Maand0);
+	sprintf(BasN0,"basis/bas%4d%c.dta", Jaar0, 'a'-1+Maand0);
 	BasF0 = fopen(BasN0,"r");
 	if (BasF0 == NULL)
 	{
@@ -81,7 +81,7 @@ int	LeesBasis()
 		exit(1);
 	}
 
-	sprintf(BasN1,"basis/bas%4d%c.dta" ,Jaar1,'@'+Maand1);
+	sprintf(BasN1,"basis/bas%4d%c.dta" ,Jaar1,'a'-1+Maand1);
 	BasF1=fopen(BasN1,"r");
 	if (BasF1==NULL)
 	{
